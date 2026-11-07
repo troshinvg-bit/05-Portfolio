@@ -16,7 +16,7 @@
 
 [Работа с файлами на Python](https://github.com/troshinvg-bit/Files_write_read)
 
-## Изображение
+##
 
 ![Логотип Python](https://www.python.org/static/community_logos/python-logo.png)
 
